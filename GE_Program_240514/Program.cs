@@ -105,6 +105,19 @@ namespace GE_Program_240514
 
                 Console.WriteLine($"iTemp 변수를 왼쪽으로 shift : {iTemp << 2}");
                 Console.WriteLine($"iTemp 변수를 오른쪽으로 shift : {iTemp >> 2}");
+
+                #region 실수 형태의 10진수를 2진수로 변환하는 방법
+                // 10진수의 실수 부분을 1.0이 될 때까지 계속 2로 곱한 다음
+                // 결과의 정수 부분을 위에서 아래로 순서대로 정렬합니다. 
+                #endregion
+
+                float fTemp = 3.14f;
+                double dTemp = 1.592;
+                Console.WriteLine($"fTemp 변수의 값 : {fTemp}");
+                Console.WriteLine($"dTemp 변수의 값 : {dTemp}");
+
+                // 4byte 크기의 실수형 자료형은 소수점 이하 6자리까지만 표기
+                // 8byte 크기의 실수형 자료형은 소수점 이하 15자리까지만 표기
             }
         }
     }
