@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GE_Program_00", "..\GE_Prog
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GE_Program_240516", "..\GE_Program_240516\GE_Program_240516.csproj", "{B7B987C2-C196-4816-A13F-4B5179D56991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GE_Program_240520", "..\240520\GE_Program_240520.csproj", "{EF90DA1D-C31B-4DEB-B84B-598485F65E48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GE_Program_240520", "..\240520\GE_Program_240520.csproj", "{EF90DA1D-C31B-4DEB-B84B-598485F65E48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GE_Program_240521", "..\GE_Program_240521\GE_Program_240521.csproj", "{4D140A8F-436B-4FEC-8512-1D23B51FB02B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GE_Program_240521", "..\GE_Program_240521\GE_Program_240521.csproj", "{4D140A8F-436B-4FEC-8512-1D23B51FB02B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GE_Program_240522", "..\GE_Program_240522\GE_Program_240522.csproj", "{7FAF0DCA-1619-4936-B3CD-CAF72C9048FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4D140A8F-436B-4FEC-8512-1D23B51FB02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D140A8F-436B-4FEC-8512-1D23B51FB02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D140A8F-436B-4FEC-8512-1D23B51FB02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAF0DCA-1619-4936-B3CD-CAF72C9048FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAF0DCA-1619-4936-B3CD-CAF72C9048FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAF0DCA-1619-4936-B3CD-CAF72C9048FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAF0DCA-1619-4936-B3CD-CAF72C9048FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

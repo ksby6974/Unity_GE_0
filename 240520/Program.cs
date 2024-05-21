@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml.Linq;
 
 namespace GE_Program_240520
 {
@@ -173,24 +174,88 @@ namespace GE_Program_240520
                 Console.WriteLine(unit.grade);
             }
 
-            Console.WriteLine($"\n【함수】\n");
+            Console.WriteLine($"\n【함수Ⅰ】\n");
             {
-                #region 함수
-                //
+                #region 매개 변수
+                // 함수의 정의에서 전달받은 인수를 함수 내부로 전달하기 위해 사용하는 변수
+
+                // 매개 변수는 함수 내부에서만 연산이 이루어지며 함수 종료 시 메모리에서 제거됨
+                // 기본 매개 변수에 값을 넣을 때, 왼쪽에 있는 매개 변수부터 값이 기입됨
                 #endregion
+
+                #region 인수
+                // 함수가 호출될 때 매개 변수에 실제로 전달되는 값
+                // 인수의 경우 함수에 있는 매개변수의 수에 따라 전달할 수 있는 인수의 수가 결정
+                // 값을 전달하는 이을 전달받는 매개변수의 자료형이 서로 일치해야 함
+                #endregion
+
+                #region 매개 변수 한정자
+                //ref       : 하나의 메모리 공간에 이름을 2개 사용해 전달, 【주소】
+                //out       : 매개 변수값을 초기화 등으로 무조건 사용해야함. ex) 충돌값 갱신
+                //in        : 읽기 전용, 데이터 쓰기 불가. ex) 출력 시에 주로 사용
+                //params    : 가변인자. 
+                //default   : 매개변수가 없어도 이미 값이 들어가도록
+                #endregion
+
+                #region foreach문
+                // 데이터 길이만큼 전부 출력
+                // 다만 해당하는 인덱스에는 접근 불가
+                #endregion
+
+                int[] aList = new int[] { 1, 2, 3, 4, 5 };
+
+                Console.WriteLine($"【foreach】\n");
+                foreach (int element in aList)
+                {
+                    Console.Write(element);
+                }
+                Console.WriteLine();
             }
 
             Calculator();
             Damage(10);
             Recovery(100);
 
-            {
-                #region 매개 변수
-                // 함수의 정의에서 전달받은 인수를 함수 내부로 전달하기 위해 사용하는 변수
+            //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            Console.WriteLine($"\n【함수Ⅱ】\n");
 
-                // 매개 변수는 함수 내부에서만 연산이 이루어지며 함수 종료 시 메모리에서 제거됨
-                #endregion
-            }
+            int iRef_A = 10;
+            int iRef_B = 20;
+
+            Console.WriteLine($"『ref』 이전 값 : {iRef_A}, {iRef_B}");
+            Ref_Swap(ref iRef_A, ref iRef_B);
+            Console.WriteLine($"『ref』 이후 값 : {iRef_A}, {iRef_B}");
+
+
+            //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            Console.WriteLine();
+            int iOut_Temp = 0;
+
+            Console.WriteLine($"『out』 이전 값 : {iOut_Temp}");
+            Out_Damage(out iOut_Temp);
+            Console.WriteLine($"『out』 이후 값 : {iOut_Temp}");
+
+            //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            Console.WriteLine();
+
+            int iIn_Temp = 10;
+
+            Console.WriteLine($"『in』 값 : {iIn_Temp}");
+            In_Printf(in iIn_Temp);
+
+            //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            Console.WriteLine();
+
+            int[] iParams_Temp = new int[] {1, 2, 3, 4, 5};
+            Params_(1, 2, 3, 4, 5);
+            Params_(15, 16, 17);
+
+            Console.WriteLine($"『params』 값 : {iParams_Temp}");
+
+            //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            Console.WriteLine();
+
+            Default_();
         }
 
         // void : 반환값 없음
@@ -209,7 +274,45 @@ namespace GE_Program_240520
 
         static void Recovery(int health)
         {
+            int x = 10;
             Console.WriteLine($"Function : Recovery({health})");
+        }
+
+        static void Ref_Swap(ref int x, ref int y)
+        {
+            int iTemp = x;
+            x = y;
+            y = iTemp;
+
+            Console.WriteLine($"Function : Ref_Swap({x},{y})");
+        }
+
+        static void Out_Damage(out int d)
+        {
+            d = 100;
+
+            Console.WriteLine($"Function : Out_Damage({d})");
+        }
+
+        static void In_Printf(in int value)
+        {
+            //value = 100;  읽기 전용으로 취급됨
+
+            Console.WriteLine($"Function : In_Printf({value})");
+        }
+
+        static void Params_(params int[] list)
+        {
+            foreach(int element in list)
+            {
+                Console.Write(element);
+            }
+            Console.WriteLine();
+        }
+
+        static void Default_(int x = 10, int y = 20)
+        {
+            Console.WriteLine($"Function : Default_ (x 좌표 : {x}, y 좌표 : {y})");
         }
     }
 }
