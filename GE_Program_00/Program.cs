@@ -6,7 +6,7 @@ namespace GE_Program_00
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }

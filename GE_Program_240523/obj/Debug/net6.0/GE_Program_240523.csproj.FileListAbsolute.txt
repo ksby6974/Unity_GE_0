@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\bin\Debug\net6.0\GE_Program_240523.exe
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\bin\Debug\net6.0\GE_Program_240523.deps.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\bin\Debug\net6.0\GE_Program_240523.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\bin\Debug\net6.0\GE_Program_240523.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\bin\Debug\net6.0\GE_Program_240523.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\GE_Program_240523.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\GE_Program_240523.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\GE_Program_240523.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\GE_Program_240523.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\GE_Program_240523.sourcelink.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\GE_Program_240523.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\refint\GE_Program_240523.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\GE_Program_240523.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\GE_Program_240523.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240523\obj\Debug\net6.0\ref\GE_Program_240523.dll
