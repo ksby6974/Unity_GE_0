@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\bin\Debug\net6.0\GE_Program_UpandDown.exe
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\bin\Debug\net6.0\GE_Program_UpandDown.deps.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\bin\Debug\net6.0\GE_Program_UpandDown.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\bin\Debug\net6.0\GE_Program_UpandDown.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\bin\Debug\net6.0\GE_Program_UpandDown.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\GE_Program_UpandDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\GE_Program_UpandDown.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\GE_Program_UpandDown.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\GE_Program_UpandDown.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\GE_Program_UpandDown.sourcelink.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\GE_Program_UpandDown.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\refint\GE_Program_UpandDown.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\GE_Program_UpandDown.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\GE_Program_UpandDown.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_UpandDown\obj\Debug\net6.0\ref\GE_Program_UpandDown.dll
