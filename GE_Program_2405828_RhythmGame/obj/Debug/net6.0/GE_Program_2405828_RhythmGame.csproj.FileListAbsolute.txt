@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\bin\Debug\net6.0\GE_Program_2405828_RhythmGame.exe
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\bin\Debug\net6.0\GE_Program_2405828_RhythmGame.deps.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\bin\Debug\net6.0\GE_Program_2405828_RhythmGame.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\bin\Debug\net6.0\GE_Program_2405828_RhythmGame.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\bin\Debug\net6.0\GE_Program_2405828_RhythmGame.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\GE_Program_2405828_RhythmGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\GE_Program_2405828_RhythmGame.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\GE_Program_2405828_RhythmGame.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\GE_Program_2405828_RhythmGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\GE_Program_2405828_RhythmGame.sourcelink.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\GE_Program_2405828_RhythmGame.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\refint\GE_Program_2405828_RhythmGame.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\GE_Program_2405828_RhythmGame.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\GE_Program_2405828_RhythmGame.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_2405828_RhythmGame\obj\Debug\net6.0\ref\GE_Program_2405828_RhythmGame.dll
