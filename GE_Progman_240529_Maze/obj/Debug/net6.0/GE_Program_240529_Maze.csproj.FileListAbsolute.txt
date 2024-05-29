@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\bin\Debug\net6.0\GE_Program_240529_Maze.exe
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\bin\Debug\net6.0\GE_Program_240529_Maze.deps.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\bin\Debug\net6.0\GE_Program_240529_Maze.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\bin\Debug\net6.0\GE_Program_240529_Maze.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\bin\Debug\net6.0\GE_Program_240529_Maze.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\GE_Program_240529_Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\GE_Program_240529_Maze.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\GE_Program_240529_Maze.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\GE_Program_240529_Maze.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\GE_Program_240529_Maze.sourcelink.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\GE_Program_240529_Maze.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\refint\GE_Program_240529_Maze.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\GE_Program_240529_Maze.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\GE_Program_240529_Maze.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Progman_240529_Maze\obj\Debug\net6.0\ref\GE_Program_240529_Maze.dll
