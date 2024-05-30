@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GE_Program_240529_Maze2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc0ae8663081a38a7986d3bda040194ef24ece1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GE_Program_240529_Maze2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GE_Program_240529_Maze2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
