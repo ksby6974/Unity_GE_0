@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240514\\GE_Program_240514.csproj",
-      "projectName": "GE_Program_240514",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240514\\GE_Program_240514.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240514\\240514 연산자.csproj",
+      "projectName": "240514 연산자",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240514\\240514 연산자.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240514\\obj\\",
       "projectStyle": "PackageReference",

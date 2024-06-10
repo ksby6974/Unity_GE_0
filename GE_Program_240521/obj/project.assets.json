@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240521\\GE_Program_240521.csproj",
-      "projectName": "GE_Program_240521",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240521\\GE_Program_240521.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240521\\240521 재귀함수&박싱.csproj",
+      "projectName": "240521 재귀함수&박싱",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240521\\240521 재귀함수&박싱.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240521\\obj\\",
       "projectStyle": "PackageReference",

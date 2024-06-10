@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_2405828_RhythmGame\\GE_Program_240528_RhythmGame.csproj",
-      "projectName": "GE_Program_240528_RhythmGame",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_2405828_RhythmGame\\GE_Program_240528_RhythmGame.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_2405828_RhythmGame\\240528 RhythmGame.csproj",
+      "projectName": "240528 RhythmGame",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_2405828_RhythmGame\\240528 RhythmGame.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_2405828_RhythmGame\\obj\\",
       "projectStyle": "PackageReference",

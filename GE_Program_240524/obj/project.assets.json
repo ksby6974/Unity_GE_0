@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240524\\GE_Program_240524.csproj",
-      "projectName": "GE_Program_240524",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240524\\GE_Program_240524.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240524\\240524 추상&대리자.csproj",
+      "projectName": "240524 추상&대리자",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240524\\240524 추상&대리자.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240524\\obj\\",
       "projectStyle": "PackageReference",

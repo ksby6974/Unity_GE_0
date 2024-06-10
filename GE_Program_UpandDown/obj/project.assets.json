@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_UpandDown\\GE_Program_240524UpandDown.csproj",
-      "projectName": "GE_Program_240524UpandDown",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_UpandDown\\GE_Program_240524UpandDown.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_UpandDown\\240524 UpandDown.csproj",
+      "projectName": "240524 UpandDown",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_UpandDown\\240524 UpandDown.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_UpandDown\\obj\\",
       "projectStyle": "PackageReference",

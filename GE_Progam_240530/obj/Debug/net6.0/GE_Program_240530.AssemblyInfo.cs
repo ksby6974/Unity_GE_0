@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GE_Program_240530")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d6a8c5ebd004191b0dfb6bd18b79bec6d0b73ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GE_Program_240530")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GE_Program_240530")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240529_Maze2\\GE_Program_240529_Maze2.csproj",
-      "projectName": "GE_Program_240529_Maze2",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240529_Maze2\\GE_Program_240529_Maze2.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240529_Maze2\\240529 Maze2.csproj",
+      "projectName": "240529 Maze2",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240529_Maze2\\240529 Maze2.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Program_240529_Maze2\\obj\\",
       "projectStyle": "PackageReference",

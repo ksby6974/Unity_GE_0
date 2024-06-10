@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Progam_240530\\GE_Program_240530.csproj",
-      "projectName": "GE_Program_240530",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Progam_240530\\GE_Program_240530.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Progam_240530\\240530 객체지향설계.csproj",
+      "projectName": "240530 객체지향설계",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Progam_240530\\240530 객체지향설계.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Progam_240530\\obj\\",
       "projectStyle": "PackageReference",

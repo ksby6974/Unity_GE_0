@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\240520\\GE_Program_240520.csproj",
-      "projectName": "GE_Program_240520",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\240520\\GE_Program_240520.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\240520\\240520 배열&구조체.csproj",
+      "projectName": "240520 배열&구조체",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\240520\\240520 배열&구조체.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\240520\\obj\\",
       "projectStyle": "PackageReference",

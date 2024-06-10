@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Programn_240527\\GE_Program_240527.csproj",
-      "projectName": "GE_Program_240527",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Programn_240527\\GE_Program_240527.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Programn_240527\\240527 일반화&스택&큐.csproj",
+      "projectName": "240527 일반화&스택&큐",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Programn_240527\\240527 일반화&스택&큐.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity_GE_0\\GE_Programn_240527\\obj\\",
       "projectStyle": "PackageReference",
