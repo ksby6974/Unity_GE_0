@@ -43,7 +43,7 @@ namespace GE_Program_240521
 
                 int result = (int)box;
 
-                Console.WriteLine($"unboxing : {box}");
+                Console.WriteLine($"unboxing : {result}");
 
                 object[] datalist = new object[5];
 

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\bin\Debug\net6.0\240520 배열&구조체.exe
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\bin\Debug\net6.0\240520 배열&구조체.deps.json
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\bin\Debug\net6.0\240520 배열&구조체.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\bin\Debug\net6.0\240520 배열&구조체.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\bin\Debug\net6.0\240520 배열&구조체.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\240520 배열&구조체.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\240520 배열&구조체.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\240520 배열&구조체.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\240520 배열&구조체.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\240520 배열&구조체.sourcelink.json
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\240520 배열&구조체.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\refint\240520 배열&구조체.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\240520 배열&구조체.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\240520 배열&구조체.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\240520\obj\Debug\net6.0\ref\240520 배열&구조체.dll

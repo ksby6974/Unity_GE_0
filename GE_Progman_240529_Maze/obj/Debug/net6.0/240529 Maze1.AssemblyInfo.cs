@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("240529 Maze1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f385e40ea14c65b4f7bd065446de9400328a09")]
 [assembly: System.Reflection.AssemblyProductAttribute("240529 Maze1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("240529 Maze1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

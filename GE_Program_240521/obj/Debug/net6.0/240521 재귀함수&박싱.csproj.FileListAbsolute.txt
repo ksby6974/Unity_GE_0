@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\bin\Debug\net6.0\240521 재귀함수&박싱.exe
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\bin\Debug\net6.0\240521 재귀함수&박싱.deps.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\bin\Debug\net6.0\240521 재귀함수&박싱.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\bin\Debug\net6.0\240521 재귀함수&박싱.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\bin\Debug\net6.0\240521 재귀함수&박싱.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\240521 재귀함수&박싱.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\240521 재귀함수&박싱.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\240521 재귀함수&박싱.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\240521 재귀함수&박싱.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\240521 재귀함수&박싱.sourcelink.json
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\240521 재귀함수&박싱.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\refint\240521 재귀함수&박싱.dll
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\240521 재귀함수&박싱.pdb
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\240521 재귀함수&박싱.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity_GE_0\GE_Program_240521\obj\Debug\net6.0\ref\240521 재귀함수&박싱.dll
